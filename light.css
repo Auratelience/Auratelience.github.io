@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "MinionPro";
+    src: url(/assts/fonts/minionpro/MinionPro-Medium.otf);
+    font-weight: regular;
+}
+
+p {
+    font-family: "MinionPro"
+}
+img {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+}
+
+#content {
+    width: 100%;
+    height: auto;
+    background-image: linear-gradient(180deg, #ffffff, #008080);
+}
